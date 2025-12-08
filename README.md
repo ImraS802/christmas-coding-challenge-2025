@@ -3,8 +3,8 @@ This repository contains solutions to problems tackled each day, along with expl
 | Day | Problem Title | Description |
 |----------|----------|----------|
 | 1 | Arrays & Basic Logic — Basics | Sum, Running Sum of 1 dimensional Array |
-| 2 | Array Manipulation | Richest Customer Wealth, Shuffle the Array |
-| 3 | Counting & Frequency | Number of Good Pairs, How Many Numbers Are Smaller Than the Current Number |
+| 2 | Array Manipulation | Pair up numbers in Array |
+| 3 | Filter Method | Use .filter() to create a new array that contains only the numbers greater than 10 |
 | 4 | Filtering & Conditions | Kids With the Greatest Number of Candies, Decompress Run-Length Encoded List |
 | 5 | Prefix/Suffix Basics | Final Value of Variable After Operations, Build Array from Permutation |
 | 6 | Simple Math | Subtract the Product and Sum of Digits of an Integer, Add Digits |
