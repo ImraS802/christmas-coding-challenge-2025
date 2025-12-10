@@ -7,4 +7,4 @@ const numbers = [1, 4, 7, 10, 13, 16];
 const numbers = [1, 4, 7, 10, 13, 16];
 let filtNumb = numbers.filter((numbers) => numbers > 10);
 
-console.log(filtNumb);
+// console.log(filtNumb);

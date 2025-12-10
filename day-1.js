@@ -13,7 +13,7 @@ for (let i = 0; i < arrayInput.length; i++) {
   sum += arrayInput[i];
 }
 
-console.log(sum);
+// console.log(sum);
 
 // solution 2 wrapped in a function:
 function sumArray(arrayInput) {
@@ -25,4 +25,4 @@ function sumArray(arrayInput) {
   return sum;
 }
 
-console.log(sumArray(arrayInput));
+// console.log(sumArray(arrayInput));

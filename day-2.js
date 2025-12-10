@@ -20,4 +20,4 @@ for (let i = 0; i < nums.length; i += 2) {
   }
 }
 
-console.log(maxSum);
+// console.log(maxSum);

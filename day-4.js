@@ -10,8 +10,8 @@ const candies = [2, 3, 5, 1, 3];
 const extraCandies = 3;
 
 const maxCandies = Math.max(...candies);
-console.log(maxCandies);
+// console.log(maxCandies);
 
 const findMax = candies.filter((candy) => candy + extraCandies >= maxCandies);
 
-console.log(findMax);
+// console.log(findMax);
