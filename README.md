@@ -7,7 +7,7 @@ This repository contains solutions to problems tackled each day, along with expl
 | 3 | Filter Method | Use .filter() to create a new array that contains only the numbers greater than 10 |
 | 4 | Filtering & Conditions | Kids With the Greatest Number of Candies, Decompress Run-Length Encoded List |
 | 5 | Map | Use .map() |
-| 6 | Simple Math | Subtract the Product and Sum of Digits of an Integer, Add Digits |
+| 6 | Reduce | Use .reduce() |
 | 7 | Review + Practice | Choose any 1–2 problems from the “Easy Array” list (e.g., Concatenation of Array) |
 | 8 | Strings Fundamentals — String Basics | Defanging an IP Address, Goal Parser Interpretation |
 | 9 | String Counting | Number of Strings That Appear in an Array, Jewels and Stones |
