@@ -19,4 +19,4 @@ function isPublishedBefore(date) {
   return date.year < 1940;
 }
 
-console.log(books.find(isPublishedBefore));
+// console.log(books.find(isPublishedBefore));
