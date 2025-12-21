@@ -9,7 +9,7 @@ This repository contains solutions to problems tackled each day, along with expl
 | 5 | Map | Use .map() |
 | 6 | Reduce | Use .reduce() |
 | 7 | Find | Use .find() |
-| 8 | Strings Fundamentals — String Basics | Defanging an IP Address, Goal Parser Interpretation |
+| 8 | Fill | Use .fill() |
 | 9 | String Counting | Number of Strings That Appear in an Array, Jewels and Stones |
 | 10 | Reversing & Cleaning Strings | Reverse String, Remove Outermost Parentheses |
 | 11 | Character Frequency | First Unique Character in a String, Determine if String Halves Are Alike |
