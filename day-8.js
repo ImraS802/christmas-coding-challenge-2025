@@ -10,4 +10,4 @@ const seats = new Array(10);
 let newSeat = seats.fill('empty');
 newSeat.fill('reserved', 4, 5);
 
-console.log(seats);
+// console.log(seats);
