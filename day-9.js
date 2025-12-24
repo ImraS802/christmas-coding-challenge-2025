@@ -6,4 +6,4 @@ const shoppingList = [['apple', 'banana'], ['milk', 'cheese'], ['bread']];
 
 const allItems = shoppingList.flat(3);
 
-console.log(allItems);
+// console.log(allItems);
