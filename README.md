@@ -11,7 +11,7 @@ This repository contains solutions to problems tackled each day, along with expl
 | 7 | Find | Use .find() |
 | 8 | Fill | Use .fill() |
 | 9 | Flat | Use .flat() with nested array |
-| 10 | Reversing & Cleaning Strings | Reverse String, Remove Outermost Parentheses |
+| 10 | Every | Use .every() |
 | 11 | Character Frequency | First Unique Character in a String, Determine if String Halves Are Alike |
 | 12 | HashMap + Strings (JS Objects) | Ransom Note, Isomorphic Strings |
 | 13 | Palindrome Basics | Valid Palindrome, Valid Anagram |
