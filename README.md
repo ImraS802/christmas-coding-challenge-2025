@@ -13,7 +13,7 @@ This repository contains solutions to problems tackled each day, along with expl
 | 9 | Flat | Use .flat() with nested array |
 | 10 | Every | Use .every() |
 | 11 | ForEach | Use .forEach() |
-| 12 | HashMap + Strings (JS Objects) | Ransom Note, Isomorphic Strings |
+| 12 | .Map() | Use .map() |
 | 13 | Palindrome Basics | Valid Palindrome, Valid Anagram |
 | 14 | Review + Practice | Try 2 random easy string problems |
 | 15 | Hash Maps, Sets — Sets & Uniqueness | Contains Duplicate, Intersection of Two Arrays |
